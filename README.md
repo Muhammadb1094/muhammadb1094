@@ -18,6 +18,7 @@ I'm a proficient Full Stack Developer with a strong backend focus, renowned for 
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
+![Django Rest Framework](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
 ![AI](https://img.shields.io/badge/-AI-FF5A5F?style=flat&logo=ai&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
