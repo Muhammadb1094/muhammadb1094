@@ -11,9 +11,6 @@ I'm a proficient Full Stack Developer with a strong backend focus, renowned for 
 
 𝐃𝐞𝐯𝐎𝐩𝐬 & 𝐂𝐈/𝐂𝐃: Complete Server Side deployment knowledge and comprehensive knowledge of GitHub Actions, workflows with AWS, and complete CI/CD implementation.
 
-
-![Muhammad Bilal Banner](https://media.licdn.com/dms/image/v2/D4D16AQFo7dXf3hzsEg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1707920402529?e=1745452800&v=beta&t=4x-x2kCqe_YUK4-qR6JiSIh0RAOBfr4mgSbWMA6lXsk)
-
 ## Languages and Tools
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
